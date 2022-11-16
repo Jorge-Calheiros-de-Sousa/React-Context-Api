@@ -7,4 +7,4 @@ npm run dev
 
 `
 
-![image](https://user-images.githubusercontent.com/86486202/202087107-dd734e76-d5f9-485c-8027-cba30b518038.png)
+![image](https://user-images.githubusercontent.com/86486202/202087210-963bbc49-6d87-48e0-bbd2-090c56982704.png)
