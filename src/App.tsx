@@ -21,6 +21,10 @@ function App() {
       description: description
     }
 
+    if (!title) {
+      return;
+    }
+
     if (seconds > 0) {
       data.timeout = seconds * 1000;
     }
